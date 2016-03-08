@@ -1,3 +1,3 @@
 # r_tutorial
 
-First intro to R
+Intro to R
